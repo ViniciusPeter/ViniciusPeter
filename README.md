@@ -1,5 +1,5 @@
 ## Olá, eu sou Vinícius Peter! 
-### Estudante de desenvolvimento de software da Cubos Acabemy.
+### Desenvolvedor FullStack e estudante de ADS.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusPeter&show_icons=true&theme=transparent) -->
 
