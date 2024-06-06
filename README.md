@@ -13,6 +13,7 @@
   <img align="center" alt="Postgres" height="30" width="40"  src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png">
   <img align="center" alt="TypeORM" height="30" width="40"  src="https://user-images.githubusercontent.com/62142146/208088732-e168fd64-3e48-4f48-b14d-9d91fa7d99f6.svg">
   <img align="center" alt="MongoDB" height="30" width="40"  src="https://img.icons8.com/?size=100&id=8rKdRqZFLurS&format=png&color=000000">
+  <img align="center" alt="Mongoose" height="30" width="40"  src="https://mongoosejs.com/docs/images/mongoose5_62x30_transparent.png">
 
 </div>
   
